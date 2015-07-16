@@ -34,7 +34,7 @@ s.platform     = :ios, '7.0'
 s.requires_arc = true
 
 
-s.source_files = 'JMessage/*'
+s.source_files = 'JMessage/JMessage.framework'
 
 # s.resources = 'Assets'
 
