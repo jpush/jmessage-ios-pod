@@ -34,9 +34,13 @@ s.platform     = :ios, '7.0'
 s.requires_arc = true
 
 
-s.source_files = 'JMessage/JMessage.framework'
+s.preserve_paths = 'JMessage/JMessage.framework'
 
-# s.resources = 'Assets'
+s.public_header_files = 'JMessage/JMessage.framework/Headers/*.h'
+
+s.source_files = 'JMessage/JMessage.framework/Headers/*.h'
+
+s.resources = 'JMessage/JMessage.framework/*'
 
 
 # s.ios.exclude_files = 'Classes/osx'
@@ -45,7 +49,7 @@ s.source_files = 'JMessage/JMessage.framework'
 
 # s.public_header_files = 'Classes/**/*.h'
 
-s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit', 'CoreTelephony', 'AudioToolbox', 'SystemConfiguration', 'CoreFoundation', 'CFNetwork', 'AVFoundation', 'CoreAudio', 'Security'
+s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit', 'CoreTelephony', 'AudioToolbox', 'SystemConfiguration', 'CoreFoundation', 'CFNetwork', 'AVFoundation', 'CoreAudio', 'Security', 'JMessage'
 
 s.libraries= 'sqlite3.0', 'z'
 
