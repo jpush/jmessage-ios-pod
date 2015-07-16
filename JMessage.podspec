@@ -47,6 +47,8 @@ s.source_files = 'JMessage/*'
 
 s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit', 'CoreTelephony', 'AudioToolbox', 'SystemConfiguration', 'CoreFoundation', 'CFNetwork', 'AVFoundation', 'CoreAudio', 'Security'
 
-s.libraries = 'libsqlite3.0.dylib', 'libz.dylib'
+s.libraries= 'sqlite3.0', 'z'
+
+
 end
 
