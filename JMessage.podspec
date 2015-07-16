@@ -12,20 +12,20 @@ It is a marquee view used on iOS, which implement by Objective-C.
 
 DESC
 
-s.homepage         = "https://github.com/huangminlinux/cocoapodTEST"
+s.homepage         = "https://github.com/jpush/jmessage-ios-pod"
 
 # s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
 
 s.license          = 'MIT'
 
-s.author           = { "黄民" => "380108184@qq.com" }
+s.author           = { "jpush" => "380108184@qq.com" }
 
-s.source           = { :git => "https://github.com/huangminlinux/cocoapodTEST.git", :tag => s.version.to_s }
+s.source           = { :git => "https://github.com/jpush/jmessage-ios-pod.git", :tag => s.version.to_s }
 
 # s.social_media_url = 'https://twitter.com/NAME'
 
 
-s.platform     = :ios, '4.3'
+s.platform     = :ios, '7.0'
 
 # s.ios.deployment_target = '5.0'
 
@@ -34,7 +34,7 @@ s.platform     = :ios, '4.3'
 s.requires_arc = true
 
 
-s.source_files = 'cocoapodTEST/*'
+s.source_files = 'JMessage/*'
 
 # s.resources = 'Assets'
 
@@ -45,7 +45,8 @@ s.source_files = 'cocoapodTEST/*'
 
 # s.public_header_files = 'Classes/**/*.h'
 
-s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit'
+s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit', 'CoreTelephony', 'AudioToolbox', 'SystemConfiguration', 'CoreFoundation', 'CFNetwork', 'AVFoundation', 'CoreAudio', 'Security'
 
+s.libraries = 'libsqlite3.0.dylib', 'libz.dylib'
 end
 
