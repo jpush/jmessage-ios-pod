@@ -1,5 +1,6 @@
 Pod::Spec.new do |s|
 
+
 s.name             = "JMessage"
 
 s.version          = "1.0.2"
