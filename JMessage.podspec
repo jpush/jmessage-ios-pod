@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.name             = "JMessage"
 
-s.version          = "1.0.3"
+s.version          = "1.0.2"
 
 s.summary          = "A marquee view used on iOS."
 
@@ -53,6 +53,6 @@ s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit', 'CoreTelephony', 'AudioToo
 
 s.libraries= 'sqlite3.0', 'z'
 
-s.vendored_libraries = "JMessage/jmessage-ios-1.0.3.a"
+s.vendored_libraries = "JMessage/JMessage.a"
 end
 
