@@ -15,7 +15,7 @@
 /**
  * 收取收到群成员变更通知和key,用以更新当前会话展示的群组信息
  */
-extern NSString * const JMSGNotification_GroupChange;//该通知的作用是通知该group 的群租变动
+extern NSString * const JMSGNotification_GroupChange;
 extern NSString * const JMSGNotification_GroupMemberKey;
 
 
