@@ -34,13 +34,13 @@ s.platform     = :ios, '7.0'
 s.requires_arc = true
 
 
-s.preserve_paths = 'JMessage/JMessage.framework'
+#s.preserve_paths = 'JMessage/JMessage.framework'
 
-s.public_header_files = 'JMessage/JMessage.framework/Headers/*.h'
+#s.public_header_files = 'JMessage/JMessage.framework/Headers/*.h'
 
-s.source_files = 'JMessage/JMessage.framework/Headers/*.h'
+s.source_files = 'JMessage/*.h'
 
-s.resources = 'JMessage/JMessage.framework/*'
+#s.resources = ''
 
 
 # s.ios.exclude_files = 'Classes/osx'
@@ -53,6 +53,6 @@ s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit', 'CoreTelephony', 'AudioToo
 
 s.libraries= 'sqlite3.0', 'z'
 
-
+s.vendored_libraries = "JMessage/jmessage-ios-1.0.3.a"
 end
 
