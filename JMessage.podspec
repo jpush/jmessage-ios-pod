@@ -38,7 +38,7 @@ s.requires_arc = true
 
 #s.public_header_files = 'JMessage/JMessage.framework/Headers/*.h'
 
-s.source_files = 'JMessage/Headers/*.h'
+s.source_files = 'JMessage/*.h'
 
 #s.resources = ''
 
