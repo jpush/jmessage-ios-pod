@@ -53,6 +53,6 @@ s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit', 'CoreTelephony', 'AudioToo
 
 s.libraries= 'sqlite3.0', 'z'
 
-s.vendored_libraries = "JMessage/JMessage.framework"
+s.vendored_frameworks = "JMessage/JMessage.framework"
 end
 
