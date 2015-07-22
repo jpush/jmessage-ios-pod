@@ -38,7 +38,7 @@ s.requires_arc = true
 
 #s.public_header_files = 'JMessage/JMessage.framework/Headers/*.h'
 
-s.source_files = 'JMessage/*.h'
+s.source_files = 'JMessage/Headers/*.h'
 
 #s.resources = ''
 
@@ -51,8 +51,8 @@ s.source_files = 'JMessage/*.h'
 
 s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit', 'CoreTelephony', 'AudioToolbox', 'SystemConfiguration', 'CoreFoundation', 'CFNetwork', 'AVFoundation', 'CoreAudio', 'Security', 'CoreLocation'
 
-s.libraries= 'sqlite3', 'z'
+s.libraries= 'sqlite3.0', 'z'
 
-s.vendored_libraries = "JMessage/JMessage.a"
+s.vendored_libraries = "JMessage/JMessage.framework"
 end
 
