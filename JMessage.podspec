@@ -49,7 +49,7 @@ s.source_files = 'JMessage/*.h'
 
 # s.public_header_files = 'Classes/**/*.h'
 
-s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit', 'CoreTelephony', 'AudioToolbox', 'SystemConfiguration', 'CoreFoundation', 'CFNetwork', 'AVFoundation', 'CoreAudio', 'Security'
+s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit', 'CoreTelephony', 'AudioToolbox', 'SystemConfiguration', 'CoreFoundation', 'CFNetwork', 'AVFoundation', 'CoreAudio', 'Security', 'CoreLocation'
 
 s.libraries= 'sqlite3.0', 'z'
 
