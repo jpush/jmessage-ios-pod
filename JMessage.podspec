@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 s.name             = "JMessage"
 
-s.version          = "1.0.2"
+s.version          = "1.0.6"
 
 s.summary          = "A marquee view used on iOS."
 
