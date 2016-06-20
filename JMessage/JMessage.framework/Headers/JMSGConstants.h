@@ -247,6 +247,8 @@ typedef NS_ENUM(NSInteger, JMSGSDKErrorCode) {
   kJMSGErrorSDKUserNumberOverflow = 863005,
   // 用户已登录
   kJMSGErrorSDKUserInvalidState = 863006,
+  // 用户正在退出的过程中
+  kJMSGErrorSDKUserLogoutingState = 863007,
   
   // ------------------------ Media Resource (864xxx)
 
