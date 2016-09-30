@@ -74,7 +74,7 @@
 		</data>
 		<key>Headers/JMessage.h</key>
 		<data>
-		FcKiGLBCb7S6rRFmobTDjj5Fl0I=
+		u7CJ2NyemRdwPf2JSw/DQVwi3EY=
 		</data>
 		<key>Headers/JMessageDelegate.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		McGgQder4nCKUNJThgwp9oCsBeE=
+		R6moHreHgNRKE5FYKmzc5J06bNw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -286,11 +286,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FcKiGLBCb7S6rRFmobTDjj5Fl0I=
+			u7CJ2NyemRdwPf2JSw/DQVwi3EY=
 			</data>
 			<key>hash2</key>
 			<data>
-			HwqTcFCF4S6s7xCT1I1al0lMLrbQkexGziWSrclHVGY=
+			RgBjqaSxVyk5Fk9V6iBHkaaUXrQzu+SPIecsVAh0eOA=
 			</data>
 		</dict>
 		<key>Headers/JMessageDelegate.h</key>

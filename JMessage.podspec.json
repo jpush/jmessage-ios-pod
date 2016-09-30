@@ -1,6 +1,6 @@
 {
   "name": "JMessage",
-  "version": "2.1.7",
+  "version": "2.1.8",
   "summary": "Offically supported JMessage iOS SDK Pod. 官方支持的JMessage SDK.",
   "description": "JMessage SDK for iOS. \n极光IM,让你的APP“聊”起来！\n 为全球开发者提供稳定高效的即时通讯服务 ",
   "homepage": "https://github.com/jpush/jmessage-ios-pod",
@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/jpush/jmessage-ios-pod.git",
-    "tag": "2.1.7"
+    "tag": "2.1.8"
   },
   "platforms": {
     "ios": "7.0"
