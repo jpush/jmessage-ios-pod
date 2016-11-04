@@ -212,6 +212,8 @@ typedef NS_ENUM(NSInteger, JMSGEventNotificationType) {
   kJMSGEventNotificationDeclinedFriendInvitation  = 53,
   /// 事件类型: 对方将你从好友中删除
   kJMSGEventNotificationDeletedFriend             = 6,
+  /// 事件类型：非客户端修改好友关系收到好友更新事件
+  kJMSGEventNotificationReceiveServerFriendUpdate = 7,
 
   // 消息事件
   /// 事件类型: 群组被创建

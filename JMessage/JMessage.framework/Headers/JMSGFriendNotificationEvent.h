@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import <JMessage/JMSGAbstractContent.h>
 #import <JMessage/JMSGUser.h>
-#import "JMSGNotificationEvent.h"
+#import <JMessage/JMSGNotificationEvent.h>
 
 
 @interface JMSGFriendNotificationEvent : JMSGNotificationEvent

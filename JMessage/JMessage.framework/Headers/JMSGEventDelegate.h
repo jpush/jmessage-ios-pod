@@ -11,7 +11,7 @@
 
 
 #import <Foundation/Foundation.h>
-#import "JMSGNotificationEvent.h"
+#import <JMessage/JMSGNotificationEvent.h>
 
 /*!
  * 监听通知事件
