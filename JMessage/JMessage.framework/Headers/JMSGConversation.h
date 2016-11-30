@@ -147,13 +147,13 @@ JMSG_ASSUME_NONNULL_BEGIN
 + (void)allConversationsByDefault:(JMSGCompletionHandler)handler;
 
 
+
 ///----------------------------------------------------------
 /// @name Conversation Basic Properties 会话基本属性：用于会话列表
 ///----------------------------------------------------------
 
 /*!
  * @abstract 会话标题
- * @discussion 会话头像没有属性字段, 应通过 avatarData: 方法异步去获取。
  */
 @property(nonatomic, strong, readonly) NSString * JMSG_NULLABLE title;
 

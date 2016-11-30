@@ -454,6 +454,7 @@ static NSString *const KEY_NO_DISTURB = @"no_disturb";
 static NSString *const KEY_BLACKLIST = @"blicklist";
 static NSString *const KEY_NOTE_NAME = @"memo_name";//note_name
 static NSString *const KEY_NOTE_TEXT = @"memo_others";//note_text
+static NSString *const KEY_SHIELD_GROUP = @"shield_group";
 
 
 

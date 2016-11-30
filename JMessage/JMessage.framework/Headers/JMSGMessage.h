@@ -283,8 +283,6 @@ JMSG_ASSUME_NONNULL_BEGIN
                            toGroup:(NSString *)groupId;
 
 
-
-
 ///----------------------------------------------------
 /// @name Message basic fields 消息基本属性
 ///----------------------------------------------------
