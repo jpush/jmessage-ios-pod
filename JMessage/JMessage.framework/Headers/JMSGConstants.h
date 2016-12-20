@@ -195,6 +195,9 @@ typedef NS_ENUM(NSInteger, JMSGEventNotificationType) {
   /// 事件类型：用户登录状态异常事件（需要重新登录）
   kJMSGEventNotificationUserLoginStatusUnexpected = 70,
   
+  /// 事件类型：当前登录用户信息变更通知事件(非客户端修改)
+  kJMSGEventNotificationCurrentUserInfoChange = 40,
+  
   // 免打扰事件
   /// 事件类型: 免打扰变更
   kJMSGEventNotificationNoDisturbChange = 37,

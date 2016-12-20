@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/JMSGConstants.h</key>
 		<data>
-		NNChmpB0mTXfPV5MidTSqWX59pY=
+		o9Te/iVcTgMY5N99Jx6qFtFh6Gs=
 		</data>
 		<key>Headers/JMSGConversation.h</key>
 		<data>
-		nLyCgyC989s9+TLo2Sq9V/xx2VI=
+		JBTf3qD2K8my4TgqFBAwrIZlX1I=
 		</data>
 		<key>Headers/JMSGConversationDelegate.h</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Headers/JMSGMessage.h</key>
 		<data>
-		8JnAaERo5RrjhVw6Bxx2zDhl5o0=
+		lpobo4PUC86nWUbsauHcM5/4jzA=
 		</data>
 		<key>Headers/JMSGMessageDelegate.h</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Headers/JMessage.h</key>
 		<data>
-		glDL/RaYgV0rmQ1xRvLfND3QEKc=
+		Vsg1P8kb4V29yISgk/+opyMzOPI=
 		</data>
 		<key>Headers/JMessageDelegate.h</key>
 		<data>
@@ -134,22 +134,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NNChmpB0mTXfPV5MidTSqWX59pY=
+			o9Te/iVcTgMY5N99Jx6qFtFh6Gs=
 			</data>
 			<key>hash2</key>
 			<data>
-			8g0x0g26/QX2NG1a47Z6fg8W/y4z3GNWBgk9j3S2AFw=
+			EmcHv3Ju0EGV3zJkFiZ34MRMewCRG1XI1fw7A99EtHM=
 			</data>
 		</dict>
 		<key>Headers/JMSGConversation.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nLyCgyC989s9+TLo2Sq9V/xx2VI=
+			JBTf3qD2K8my4TgqFBAwrIZlX1I=
 			</data>
 			<key>hash2</key>
 			<data>
-			OmoLdfb88lZvOOpjVxBehLyUkeSiYboeMqVF5mcy7IM=
+			5GDN1RkNIKwbDh0xlwgUC1JS5Yq+QX+5EXBUJjRday4=
 			</data>
 		</dict>
 		<key>Headers/JMSGConversationDelegate.h</key>
@@ -299,11 +299,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8JnAaERo5RrjhVw6Bxx2zDhl5o0=
+			lpobo4PUC86nWUbsauHcM5/4jzA=
 			</data>
 			<key>hash2</key>
 			<data>
-			dUxDTP9tdyfStNJ0K72N9ez+kh73yWVrH5Qxb6DFyr0=
+			WVxObS0OJC3TQWvU5DIGHTS9I6/y0CA6o6xXDQ9Un20=
 			</data>
 		</dict>
 		<key>Headers/JMSGMessageDelegate.h</key>
@@ -376,11 +376,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			glDL/RaYgV0rmQ1xRvLfND3QEKc=
+			Vsg1P8kb4V29yISgk/+opyMzOPI=
 			</data>
 			<key>hash2</key>
 			<data>
-			GMQkK1Si1f5sGIPLm+6XAJXpYGqj++KUxp1OEwYGtBo=
+			vdkzwhEMi8r0W1SvAPu3d5p/inCZQ1LjAVfzA7Y4NSU=
 			</data>
 		</dict>
 		<key>Headers/JMessageDelegate.h</key>
