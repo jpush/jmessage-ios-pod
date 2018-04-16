@@ -3,7 +3,7 @@
   "version": "3.5.0",
   "summary": "Offically supported JMessage iOS SDK Pod. 官方支持的JMessage SDK.",
   "description": "JMessage SDK for iOS. \n极光IM,让你的APP“聊”起来！\n 为全球开发者提供稳定高效的即时通讯服务 ",
-  "homepage": "http://www.jpush.cn/",
+  "homepage": "http://www.jiguang.cn/",
   "license": "MIT",
   "authors": {
     "jpush": "380108184@qq.com"
